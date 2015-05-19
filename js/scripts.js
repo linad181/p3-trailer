@@ -1,3 +1,3 @@
 // My Scripts
 
-document.write("Hello World!");
+$('video').mediaelementplayer();
